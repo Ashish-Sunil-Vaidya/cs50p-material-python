@@ -1,0 +1,5 @@
+- Style is a formatting standards defined by PEP(Python Enhancement Program) 8
+- It is designed to create a pattern of the Python which is common everywhere in the world
+- Example indentation in Python was decided to be four spaces or tab as a formatting standards by PEP 8
+
+

@@ -1,0 +1,11 @@
+- Python has a very unique feature knows as "interactive mode" . 
+- In this mode you can dynamically input the code inside the terminal and get output right after hitting enter.
+- To go into interactive mode, you will have to go inside terminal and enter " python ".
+- This input inside terminal will result in a small change a ' >>> ' arrow will appear inside the terminal. 
+- This tells you that the terminal is now in interactive mode, now proceed typing any code inside terminal it will give output below the input.
+
+- For example:  >>> 1 + 1 
+                  2
+              
+              >>> print("Hello World")
+                  Hello World
